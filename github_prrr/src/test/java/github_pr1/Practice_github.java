@@ -8,6 +8,7 @@ public class Practice_github {
 		System.out.println("hello1111");
 		System.out.println("first push the code");
 		System.out.println("first push the code88888888");
+		System.out.println("first push the code6666666");
 
 	}
 
